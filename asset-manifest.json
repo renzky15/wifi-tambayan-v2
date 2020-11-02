@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wifi-tambayan-v2/static/css/main.cf9fdac6.chunk.css",
+    "main.js": "/wifi-tambayan-v2/static/js/main.0ad9a976.chunk.js",
+    "main.js.map": "/wifi-tambayan-v2/static/js/main.0ad9a976.chunk.js.map",
+    "runtime-main.js": "/wifi-tambayan-v2/static/js/runtime-main.43c43562.js",
+    "runtime-main.js.map": "/wifi-tambayan-v2/static/js/runtime-main.43c43562.js.map",
+    "static/js/2.00303ce4.chunk.js": "/wifi-tambayan-v2/static/js/2.00303ce4.chunk.js",
+    "static/js/2.00303ce4.chunk.js.map": "/wifi-tambayan-v2/static/js/2.00303ce4.chunk.js.map",
+    "index.html": "/wifi-tambayan-v2/index.html",
+    "precache-manifest.6a710a6bc9416d1eb5440512b3e70d42.js": "/wifi-tambayan-v2/precache-manifest.6a710a6bc9416d1eb5440512b3e70d42.js",
+    "service-worker.js": "/wifi-tambayan-v2/service-worker.js",
+    "static/css/main.cf9fdac6.chunk.css.map": "/wifi-tambayan-v2/static/css/main.cf9fdac6.chunk.css.map",
+    "static/js/2.00303ce4.chunk.js.LICENSE.txt": "/wifi-tambayan-v2/static/js/2.00303ce4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43c43562.js",
+    "static/js/2.00303ce4.chunk.js",
+    "static/css/main.cf9fdac6.chunk.css",
+    "static/js/main.0ad9a976.chunk.js"
+  ]
+}
