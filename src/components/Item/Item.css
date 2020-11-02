@@ -1,0 +1,26 @@
+.item_container {
+    margin-left: 20px;
+}
+.item_btn {
+    position: relative;
+    width: 120px;
+    height: 80px;
+    cursor: pointer;
+    outline: none;
+    background-color: transparent;
+    border: 2px solid #1b1b1b;
+    vertical-align: middle;
+    text-decoration: none;
+    color: #1b1b1b;
+    font-size: 24px;
+    font-weight: 700;
+    border-radius: 10px;
+    transition: transform 450ms;
+}
+.item_btn:hover {
+    background-color: #1b1b1b;
+    border: 2px solid #fff;
+    transform: scale(1.08);
+    opacity: 1;
+    color: #fff;
+}
