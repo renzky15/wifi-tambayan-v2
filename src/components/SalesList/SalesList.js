@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react"
 import { connect } from "react-redux"
 import SalesListItem from "./SalesListItem"
-import { addSalesOrder } from "../../actions/sales_order"
+// import { addSalesOrder } from "../../actions/sales_order"
 import "./SalesList.css"
 
 function SalesList(props) {

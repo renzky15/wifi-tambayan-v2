@@ -5,7 +5,7 @@ import { AuthContext } from "../../util/Auth"
 import "./Login.css"
 
 const Login = ({ history }) => {
-    const [loader, setLoader] = useState(false)
+    const [loader] = useState(false)
 
     const handleLogin = useCallback(
         async (e) => {
