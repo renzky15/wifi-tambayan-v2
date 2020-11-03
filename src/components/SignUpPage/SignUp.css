@@ -1,0 +1,44 @@
+.create_container {
+    position: absolute; /* podría ser relative */
+    width: 400px;
+    height: 400px;
+    left: 40%;
+    top: 20%;
+    background-color: #fff;
+    border-radius: 25px;
+    -webkit-box-shadow: -2px 7px 21px -9px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px 7px 21px -9px rgba(0, 0, 0, 0.75);
+    box-shadow: -2px 7px 21px -9px rgba(0, 0, 0, 0.75);
+    margin-bottom: 20px;
+}
+.create_form {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding: 30px;
+}
+
+.btn_create {
+    color: #fff;
+    background-color: #0bc539;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    padding: 10px;
+    border-color: transparent;
+    border-radius: 30px;
+    margin-top: 20px;
+    outline: none;
+}
+.create_form input {
+    border-color: transparent;
+    background-color: #ccc;
+    height: 40px;
+    border-radius: 30px;
+    margin-top: 10px;
+    outline: none;
+    padding-left: 15px;
+}
+.create_form input::placeholder {
+    padding: 10px;
+}
